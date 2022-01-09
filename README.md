@@ -2,11 +2,17 @@
 嘿嘿，这里是轻言的开源地址，所开源的内容是qingyanqy.github.io资源站的代码内容，有懂的大佬可以多多指教，任何关于代码上的问题或网页上的建议，可以在[轻言的资源分享站](https://qingyanqy.github.io)上的“意见反馈”中进行反馈
 >代码部分分为两块，第一块，网页主体index.html
 >>第二块，网页404界面404.html
+
 ---
+
 ## 下面是代码部分
+
 ---
+
 >此处为index.html主体代码部分
+
 ```
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -1157,10 +1163,15 @@
     <script src="/assets/js/scale.fix.js"></script>
   </body>
 </html>
+
 ```
+
 ---
+
 >下面为404.html代码界面
+
 ```
+
 ---
 permalink: /404.html
 ---
@@ -1234,6 +1245,9 @@ permalink: /404.html
 		</script>
 	</body>
 </html>
+
 ```
+
 ---
+
 ### 以上就是资源站开源的全部内容了，如有问题，请上[轻言的资源分享站](https://qingyanqy.github.io)上的“意见反馈”中进行反馈哦~
